@@ -1,0 +1,20 @@
+{
+  "symbol": "FTCC",
+  "address": "0xFF6CDF357B8D4a9C2db4e4E4D56dc66D9C4D23c0",
+  "overview":{
+        "en":"Feitian Chain token."
+  },
+  "email": "feitianchain@gmail.com",
+  "website": "http://ftblock.net/",
+  "whitepaper": "http://www.ftblock.net/doc/FTChain%20Whitepaper_EN%201.0.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-04-01",
+  "initial_price":{
+        "BTC":"0.00000201 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/FT_chain",
+    "telegram": "https://t.me/FT_chain",
+    "facebook": "https://www.facebook.com/FTchain",
+  }
+}
